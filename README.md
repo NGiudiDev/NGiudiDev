@@ -2,23 +2,28 @@
 
 # 👋 Hola, soy Nicolás Giudice
 
-💻 Desarrollador de software enfocado en frontend y en el diseño de aplicaciones mantenibles y escalables.  
-Me interesa la arquitectura de software, la experiencia de usuario y la construcción de soluciones claras para problemas reales.
+Mi primer contacto con la programación fue en 2011, mientras estudiaba en un colegio técnico electrónico, donde aprendí a programar en C para microcontroladores. A lo largo de los años y distintos estudios, fui incorporando diversos lenguajes y frameworks, ampliando mi perfil como desarrollador.
 
-## 🚀 Tecnologías y herramientas
+En 2021 participé de un entrenamiento Job Ready que me permitió iniciar mi carrera profesional en Shipnow, una empresa de tecnología y logística, donde trabajo hasta el día de hoy.
 
-- **Lenguajes:** JavaScript / TypeScript  
-- **Frontend:** React, Storybook  
-- **Backend:** Node.js  
-- **Bases de datos:** SQL  
-- **Otros:** Git, GitHub, buenas prácticas de arquitectura y diseño
+Ingresé como junior y, con el tiempo, logré fortalecer tanto mis habilidades técnicas como blandas, lo que me permitió crecer hasta mi rol actual como Tech Leader.
+
+Actualmente, mis responsabilidades incluyen mantener las aplicaciones actualizadas, aplicar buenas prácticas de desarrollo y trabajar en conjunto con el equipo de producto en la planificación y ejecución de nuevos proyectos.
+
+## 🚀 Principales tecnologías y herramientas
+
+- **Lenguajes:** JavaScript / TypeScript.
+- **Frontend:** React, Storybook.
+- **Backend:** Node.js.
+- **Bases de datos:** SQL.
+- **Otros:** Git, GitHub, buenas prácticas de arquitectura y diseño.
 
 ## 🧩 En qué trabajo habitualmente
 
-- Desarrollo de interfaces reutilizables y escalables  
-- Diseño y documentación de componentes con Storybook  
-- Modelado de sistemas y análisis de arquitectura  
-- Aplicaciones web orientadas a la gestión y organización de procesos
+- Desarrollo de interfaces reutilizables y escalables.
+- Diseño y documentación de componentes con Storybook.
+- Modelado de sistemas y análisis de arquitectura.
+- Aplicaciones web orientadas a la gestión y organización de procesos.
 
 ⭐ Siempre interesado en mejorar procesos, código y experiencias de usuario.
 
