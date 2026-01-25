@@ -2,44 +2,52 @@
 
 # 👋 Hola, soy Nicolás Giudice
 
-Soy un desarrollador frontend apasionado por crear soluciones web innovadoras y eficientes. Con más de 4 años de experiencia, me especializo en construir aplicaciones escalables que resuelven problemas reales
+Soy desarrollador Frontend con más de 4 años de experiencia construyendo aplicaciones web escalables, enfocadas en la reutilización de componentes, la calidad del código y una excelente experiencia de usuario. Actualmente me desempeño como **Tech Leader**, participando tanto en decisiones técnicas como en la planificación de producto y el crecimiento del equipo.
 
----
 
-Mi primer contacto con la programación fue en 2011, mientras estudiaba en un colegio técnico electrónico, donde aprendí a programar en C para microcontroladores. A lo largo de los años y distintos estudios, fui incorporando diversos lenguajes y frameworks, ampliando mi perfil como desarrollador.
+## 🧭 Un poco de historia
 
-En 2021 participé de un entrenamiento Job Ready que me permitió iniciar mi carrera profesional en Shipnow, una empresa de tecnología y logística, donde trabajo hasta el día de hoy.
+Mi primer contacto con la programación fue en 2011, mientras estudiaba en un colegio técnico electrónico, donde aprendí a programar en C para microcontroladores.
 
-Ingresé como junior y, con el tiempo, logré fortalecer tanto mis habilidades técnicas como blandas, lo que me permitió crecer hasta mi rol actual como Tech Leader.
+A lo largo de los años y distintos estudios fui incorporando nuevos lenguajes y frameworks, ampliando mi perfil como desarrollador.
 
-Actualmente, mis responsabilidades incluyen mantener las aplicaciones actualizadas, aplicar buenas prácticas de desarrollo y trabajar en conjunto con el equipo de producto en la planificación y ejecución de nuevos proyectos.
+En 2021 participé de un entrenamiento **Job Ready** que me permitió iniciar mi carrera profesional en **Shipnow**, una empresa de tecnología y logística, donde trabajo hasta el día de hoy.
 
-## 🚀 Principales tecnologías y herramientas
+Ingresé como desarrollador junior y, con el tiempo, fortalecí tanto mis habilidades técnicas como blandas, lo que me permitió crecer hasta mi rol actual como **Tech Leader**.
 
-- **Lenguajes:** JavaScript / TypeScript.
-- **Frontend:** React, Next.js, Flutter, Storybook.
-- **Backend:** Node.js.
-- **Bases de datos:** SQL.
-- **Otros:** Git, GitHub, buenas prácticas de arquitectura y diseño.
+
+## 🧠 Rol actual y responsabilidades
+
+- Liderar el desarrollo frontend de aplicaciones productivas.
+- Definir y promover buenas prácticas de arquitectura y calidad de código.
+- Mantener y evolucionar aplicaciones existentes.
+- Trabajar en conjunto con el equipo de producto en la planificación técnica de nuevos proyectos.
+- Acompañar y mentorear a otros desarrolladores.
+
+
+## 🛠️ Tecnologías y herramientas
+
+- **Lenguajes:** JavaScript, TypeScript  
+- **Frontend:** React, Next.js, Flutter, Storybook  
+- **Backend:** Node.js  
+- **Bases de datos:** SQL  
+- **Herramientas y prácticas:** Git, GitHub, Clean Architecture, Design Systems
+
 
 ## 🧩 En qué trabajo habitualmente
 
 - Desarrollo de interfaces reutilizables y escalables.
-- Diseño y documentación de componentes con Storybook.
-- Modelado de sistemas y análisis de arquitectura.
-- Aplicaciones web orientadas a la gestión y organización de procesos.
+- Diseño, documentación y mantenimiento de componentes.
+- Modelado de sistemas y análisis de arquitectura frontend.
+- Aplicaciones web orientadas a la gestión y optimización de procesos.
 
-⭐ Siempre interesado en mejorar procesos, código y experiencias de usuario.
 
-<!-- 
-  Here are some ideas to get you started:
-  
-  - 🔭 I’m currently working on ...
-  - 🌱 I’m currently learning ...
-  - 👯 I’m looking to collaborate on ...
-  - 🤔 I’m looking for help with ...
-  - 💬 Ask me about ...
-  - 📫 How to reach me: ...
-  - 😄 Pronouns: ...
-  - ⚡ Fun fact: ...
--->
+## 🌱 Actualmente
+
+- Profundizando en arquitectura frontend y escalabilidad.
+- Construyendo y manteniendo Design Systems.
+- Mejorando procesos de desarrollo y experiencia de usuario.
+
+
+⭐ Siempre interesado en mejorar procesos, código y experiencias de usuario.  
+👇 Podés ver algunos de mis proyectos destacados más abajo.
