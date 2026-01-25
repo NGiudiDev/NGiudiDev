@@ -2,6 +2,10 @@
 
 # 👋 Hola, soy Nicolás Giudice
 
+Soy un desarrollador frontend apasionado por crear soluciones web innovadoras y eficientes. Con más de 4 años de experiencia, me especializo en construir aplicaciones escalables que resuelven problemas reales
+
+---
+
 Mi primer contacto con la programación fue en 2011, mientras estudiaba en un colegio técnico electrónico, donde aprendí a programar en C para microcontroladores. A lo largo de los años y distintos estudios, fui incorporando diversos lenguajes y frameworks, ampliando mi perfil como desarrollador.
 
 En 2021 participé de un entrenamiento Job Ready que me permitió iniciar mi carrera profesional en Shipnow, una empresa de tecnología y logística, donde trabajo hasta el día de hoy.
