@@ -13,7 +13,7 @@ Actualmente, mis responsabilidades incluyen mantener las aplicaciones actualizad
 ## 🚀 Principales tecnologías y herramientas
 
 - **Lenguajes:** JavaScript / TypeScript.
-- **Frontend:** React, Storybook.
+- **Frontend:** React, Next.js, Flutter, Storybook.
 - **Backend:** Node.js.
 - **Bases de datos:** SQL.
 - **Otros:** Git, GitHub, buenas prácticas de arquitectura y diseño.
